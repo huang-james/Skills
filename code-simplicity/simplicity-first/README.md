@@ -42,8 +42,8 @@ AI 编码助手最常见的问题不是写不出代码，而是**写太多代码
 
 ```bash
 # ZCode
-cp -r simplicity-first ~/.zcode/skills/
+cp -r code-simplicity/simplicity-first ~/.zcode/skills/
 
 # Claude Code
-cp -r simplicity-first ~/.claude/skills/
+cp -r code-simplicity/simplicity-first ~/.claude/skills/
 ```

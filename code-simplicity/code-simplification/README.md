@@ -73,8 +73,8 @@ def process(data):
 
 ```bash
 # ZCode
-cp -r code-simplification ~/.zcode/skills/
+cp -r code-simplicity/code-simplification ~/.zcode/skills/
 
 # Claude Code
-cp -r code-simplification ~/.claude/skills/
+cp -r code-simplicity/code-simplification ~/.claude/skills/
 ```

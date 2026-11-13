@@ -4,11 +4,13 @@ Some public skills of AI tools for personal use.
 
 ## Available Skills
 
-### [simplicity-first](./simplicity-first/README.md) · [SKILL](./simplicity-first/SKILL.md)
+### [code-simplicity](./code-simplicity/README.md) — 简洁性组合（写之前把关 + 写完之后清理）
+
+#### [simplicity-first](./code-simplicity/simplicity-first/README.md) · [SKILL](./code-simplicity/simplicity-first/SKILL.md)
 
 Simplicity gate for ALL code written, fixed, or reviewed. Invoke BEFORE writing any code change and when reviewing any diff. Treats over-complex or oversized code as a correctness bug, not a style issue.
 
-### [code-simplification](./code-simplification/README.md) · [SKILL](./code-simplification/SKILL.md)
+#### [code-simplification](./code-simplicity/code-simplification/README.md) · [SKILL](./code-simplicity/code-simplification/SKILL.md)
 
 Simplifies code for clarity without changing behavior. Use when code works but is harder to read, maintain, or extend than it should be, or when reviewing code that has accumulated unnecessary complexity.
 
